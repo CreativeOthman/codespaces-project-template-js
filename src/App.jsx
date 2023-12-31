@@ -27,12 +27,10 @@ const siteProps = {
   name: "USMAN AHMAD",
   title: "Web Designer & Content Creator",
   email: "bewithusman@hotmail.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  gitHub: "https://github.com/CreativeOthman",
+  linkedIn: "www.linkedin.com/in/creativeothman",
+  twitter: "@CreativeUthman",
+  youTube: "https://www.youtube.com/@CreativeOthmanVlogs-js3nw",
 };
 
 const primaryColor = "#4E567E";
